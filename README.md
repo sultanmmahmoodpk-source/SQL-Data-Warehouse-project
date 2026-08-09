@@ -43,9 +43,16 @@ The objective of this project is to build a scalable, modern Data Warehouse usin
 - Power BI Desktop
 ###Check All Given Resources and Implement(Check and Understand Whole Process! Thank You)
 
+
 💡 Key Insights & Business Impact
 Customer Segmentation: Identified key customer cohorts driving majority of total profit.
 Sales Trends: Analyzed historical time-series data to detect quarterly seasonality and peak purchase periods.
 Product Analytics: Evaluated top-selling categories and underperforming products to assist inventory decision-making.
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Be Connect With Us! on Linkedin 
+Linkedin: www.linkedin.com/in/sultan-mehmood-817626398
+
+
+
